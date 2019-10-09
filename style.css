@@ -71,6 +71,7 @@ footer p{
 }
 
 article p{
-  padding:1.1em;
-  color: rgb(231, 228, 228); 
+  padding:1em;
+  color: rgb(231, 228, 228);
+  font-size: 1.1em ;
 }
